@@ -1,6 +1,6 @@
 # 3d-sofa-configurator using three.js
 
-[Product(Sofally.com) here...](https://www.sofally.com/sofathree/)
+[Product here...](https://www.sofally.com/sofathree/)
 
 This is the 3D Sofa Configurator using three.js library.
 
